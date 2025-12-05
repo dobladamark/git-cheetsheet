@@ -1,5 +1,7 @@
 # git-cheetsheet
 
+<img width="907" height="195" alt="image" src="https://github.com/user-attachments/assets/0c2d08cc-8f5d-489f-98fe-a2a29432fa82" />
+
 <img width="1014" height="825" alt="image" src="https://github.com/user-attachments/assets/91a643f2-6376-4748-a2b3-2726da406d1e" />
 
 <img width="813" height="413" alt="image" src="https://github.com/user-attachments/assets/adec3fa8-010a-4a11-9e79-36740dad62da" />
