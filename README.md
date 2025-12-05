@@ -1,3 +1,3 @@
 # git-cheetsheet
 
-<img width="978" height="822" alt="image" src="https://github.com/user-attachments/assets/db050cd1-fc34-4512-8dfc-72b220011a30" />
+<img width="1014" height="825" alt="image" src="https://github.com/user-attachments/assets/91a643f2-6376-4748-a2b3-2726da406d1e" />
